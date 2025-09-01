@@ -1,10 +1,10 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
-  author: "Alejandro Múnez Cuntez",
+  title: "Devarth Patel",
+  author: "Devarth Patel",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Computer Science Student and Cyber Secuirty Enthusiast @ KU, based in Lawrence, KS",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -13,23 +13,20 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/devarth-patel" },
+    { text: "Github", href: "https://github.com/dpate20" },
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://dev-portfolio-seven-pi.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Devarth Patel",
+    specialty: "Computer Science Student & Security Enthusiast",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Based in Lawrence, KS.",
+    email: "dpate20@ku.edu",
   },
   experience: [
     {
