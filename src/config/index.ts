@@ -28,9 +28,9 @@ export const SITE_CONTENT: SiteContent = {
     email: "Dev.Patel@trojan.dsu.edu",
   },
   experience: [
-   {
+  {
   company: "Kansas Memorial Union",
-  position: "E-Commerce Associate Lead",
+  position: "E-Commerce Associate Lead ",
   startDate: "Jan 2024",
   endDate: "Jan 2026",
   summary: [
