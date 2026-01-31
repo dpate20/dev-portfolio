@@ -28,20 +28,20 @@ export const SITE_CONTENT: SiteContent = {
     email: "Dev.Patel@trojan.dsu.edu",
   },
   experience: [
-    {
-      company: "Kansas Memorial Union",
-      position: "E-Commerce Associate Lead ",
-      startDate: "Jan 2024",
-      endDate: "Jan 2026",
-      summary: [
-      "Audited 500+ products per week across 300+ product categories, validating end-to-end listing integrity in Oracle NetSuite + CMS—including titles/descriptions, pricing, product attributes/variants, inventory/availability status, and category placement—to ensure accurate, consistent customer-facing listings.",
-      "Performed structured discrepancy investigation when data didn’t match across systems: compared records between NetSuite, CMS, vendor feeds, and internal reference sources; identified the source of truth; flagged inconsistencies; and executed corrections to eliminate mismatches (pricing errors, missing attributes, incorrect availability, misclassified items).",
-      "Used 8+ external systems/databases to verify and cross-check product information, troubleshoot exceptions, and resolve workflow blockers—supporting faster resolution when issues involved incomplete vendor data, conflicting values between systems, or missing required fields.",
-      "Maintained and coordinated 40+ vendor relationships, serving as the point of contact for product updates, field requirements, and issue resolution; communicated data needs clearly, followed up on missing/inaccurate information, and ensured vendor inputs aligned with internal standards and publishing timelines.",
-      "Managed day-to-day operational issues using a ticket/incident workflow: logged issues with clear reproduction steps, impacted SKUs/categories, suspected root cause, and recommended actions; escalated complex issues to the appropriate stakeholder (vendor/internal team) and tracked progress through closure.",  
-      "Authored 3 internal user guides (step-by-step SOPs) covering recurring processes and common failure points, standardizing how new employees handle audits, corrections, and escalations—reducing repeat errors and improving onboarding consistency.",
-      ],
-    },
+   {
+  company: "Kansas Memorial Union",
+  position: "E-Commerce Associate Lead",
+  startDate: "Jan 2024",
+  endDate: "Jan 2026",
+  summary: [
+    "Audited 500+ products per week across 300+ product categories, validating end-to-end listing integrity in Oracle NetSuite + CMS—including titles/descriptions, pricing, product attributes/variants, inventory/availability status, and category placement—to ensure accurate, consistent customer-facing listings.",
+    "Performed structured discrepancy investigation when data didn’t match across systems: compared records between NetSuite, CMS, vendor feeds, and internal reference sources; identified the source of truth; flagged inconsistencies; and executed corrections to eliminate mismatches (pricing errors, missing attributes, incorrect availability, misclassified items).",
+    "Used 8+ external systems/databases to verify and cross-check product information, troubleshoot exceptions, and resolve workflow blockers—supporting faster resolution when issues involved incomplete vendor data, conflicting values between systems, or missing required fields.",
+    "Maintained and coordinated 40+ vendor relationships, serving as the point of contact for product updates, field requirements, and issue resolution; communicated data needs clearly, followed up on missing/inaccurate information, and ensured vendor inputs aligned with internal standards and publishing timelines.",
+    "Managed day-to-day operational issues using a ticket/incident workflow: logged issues with clear reproduction steps, impacted SKUs/categories, suspected root cause, and recommended actions; escalated complex issues to the appropriate stakeholder (vendor/internal team) and tracked progress through closure.",
+    "Authored 3 internal user guides (step-by-step SOPs) covering recurring processes and common failure points, standardizing how new employees handle audits, corrections, and escalations—reducing repeat errors and improving onboarding consistency."
+  ],
+},
    
     {
       company: "Victorian Inn",
