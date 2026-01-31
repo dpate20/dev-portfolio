@@ -48,13 +48,14 @@ export const SITE_CONTENT: SiteContent = {
       position: "IT Assistant",
       startDate: "Sept 2020",
       endDate: "Dec 2023",
-      summary:
+      summary: [
         "Supported day-to-day hotel operations systems—including reservation/booking platforms and internal front-desk tools—with a focus on uptime, continuity, and reliable end-to-end workflows (booking → check-in → billing → check-out).",
         "Managed 3–4 third-party app integrations that powered reservations and operational workflows; monitored for failures, triaged outages/workflow breaks, identified where the process was failing (integration vs platform vs user workflow), and coordinated resolution to restore service quickly.",
         "Served as the point person for operational troubleshooting during high-impact issues: investigated errors affecting reservation creation, payment/billing sync, room assignment, and guest communications; escalated when needed and ensured fixes were validated before returning to normal operations.",
         "Maintained and validated 30+ guest records/day, ensuring accuracy and consistency across guest profiles, booking details, billing status, and check-in/check-out actions—reducing mistakes that could cause double bookings, incorrect charges, or guest experience issues.",
         "Documented incidents with clear root-cause summaries, steps taken, final fixes, and prevention measures; created repeatable handoff notes for front-desk staff and improved operational reliability by ~60% by reducing recurring workflow failures and speeding up issue resolution.",
-        "Strengthened frontline handoffs by standardizing what staff should check during exceptions (booking mismatches, payment failures, missing fields), improving consistency across shifts and reducing dependency on ad-hoc troubleshooting.",    
+        "Strengthened frontline handoffs by standardizing what staff should check during exceptions (booking mismatches, payment failures, missing fields), improving consistency across shifts and reducing dependency on ad-hoc troubleshooting."
+        ],
     },
   ],
   projects: [
