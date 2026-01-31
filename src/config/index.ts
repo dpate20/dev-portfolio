@@ -4,9 +4,9 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Devarth Patel",
   author: "Devarth Patel",
   description:
-    "Computer Science Student and Cyber Secuirty Enthusiast @ KU, based in Lawrence, KS",
+    "M.S Information Systems @ Dakota State University - Madison,SD | Cybersecurity, Network Security, Digital Forensics, Management",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/dev-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -23,10 +23,10 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Devarth Patel",
-    specialty: "Computer Science Student & Security Enthusiast",
+    specialty: "Cybersecurity, Network Security, Digital Forensics, Management",
     summary:
-      "Based in Lawrence, KS.",
-    email: "dpate20@ku.edu",
+      "Based in Madison, SD",
+    email: "Dev.Patel@trojan.dsu.edu",
   },
   experience: [
     {
