@@ -81,12 +81,11 @@ export const SITE_CONTENT: SiteContent = {
     },
   ],
   about: {
-    description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
-    `,
-    image: "/alejandro-big.jpg",
+    description:`
+    I’m Dev Patel, a cybersecurity-focused M.S. student who builds real-world security tools, labs, and automation. My interests center on detection engineering, network security, and scalable security workflows.
+    Right now, I’m developing projects in traffic analysis, anomaly detection, and blue-team visibility.
+  `,
+    image: "/dev-big.jpg",
   },
 };
 
