@@ -17,8 +17,6 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/dpate20" },
   ],
   canonicalURL: "https://dpatel.me",
-  socialImage?: string;
-
 };
 
 export const SITE_CONTENT: SiteContent = {
