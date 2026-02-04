@@ -92,7 +92,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Buddy Allocator",
       summary: "Memory Allocation, the memory algorithm, and memory. Kernel needs to allocate memory for user-level applications and the kernel itself.",
       linkSource: "https://github.com/dpate20/BuddyAllocator",
-      image: "/spotifu.png",
+      image: "/budalloc.png",
     },
   ],
   about: {
