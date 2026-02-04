@@ -69,7 +69,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Security Onion Investigation",
       summary: "Security Onion 2.4 lab writeup exploring Zeek + Suricata telemetry.",
       linkSource: "https://github.com/dpate20/Security-Labs/blob/main/reports/security-onion-paper.pdf",
-      image: "/shopify-clon.png",
+      image: "/seconion.png",
     },
     {
       name: "Cetus.io",
