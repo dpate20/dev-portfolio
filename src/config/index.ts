@@ -63,7 +63,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Anomalyze.io",
       summary: "Network anomaly detection agent using packet sniffing + ML outlier detection.",
       linkSource: "https://github.com/dpate20/Anomalyze.io",
-      image: "/spotifu.png",
+      image: "/anom.png",
     },
     {
       name: "Security Onion Investigation",
