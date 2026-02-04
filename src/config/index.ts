@@ -80,7 +80,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "HawkLoop",
       summary: "HawkLoop, a real-time bus tracking application designed for students.",
       linkSource: "https://github.com/CaribTechProduction/EECS-582-HawkLoop",
-      image: "/spotifu.png",
+      image: "/hawkloop.png",
     },
     {
       name: "Library Database",
