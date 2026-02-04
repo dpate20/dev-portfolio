@@ -86,7 +86,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Library Database",
       summary: "An SQL-based library database system for managing books, borrowers, transactions, and overdue tracking.",
       linkSource: "https://github.com/dpate20/EECS-447-LibraryDB",
-      image: "/spotifu.png",
+      image: "/libdb.png",
     },
     {
       name: "Buddy Allocator",
