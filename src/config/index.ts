@@ -75,7 +75,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Cetus.io",
       summary: "Security project focused on detecting/triaging malicious email patterns.",
       linkSource: "https://github.com/dpate20/Cetus.io",
-      image: "/clone-ig.png",
+      image: "/cetus.png",
     },
     {
       name: "HawkLoop",
