@@ -16,8 +16,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/devarth-patel" },
     { text: "Github", href: "https://github.com/dpate20" },
   ],
-  socialImage: "/zen-og.png",
-  canonicalURL: "https://dev-portfolio-seven-pi.vercel.app",
+  canonicalURL: "https://dpatel.me",
 };
 
 export const SITE_CONTENT: SiteContent = {
